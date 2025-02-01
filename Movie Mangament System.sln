@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movie Mangament System", "Movie Mangament System\Movie Mangament System.csproj", "{EBDFC718-4DE6-4A41-8B12-864D124147E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epam.MovieManagment.Application", "Epam.MovieManagment.Application\Epam.MovieManagment.Application.csproj", "{8B3763CD-9914-42F2-A67A-38238554F802}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBDFC718-4DE6-4A41-8B12-864D124147E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBDFC718-4DE6-4A41-8B12-864D124147E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBDFC718-4DE6-4A41-8B12-864D124147E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBDFC718-4DE6-4A41-8B12-864D124147E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B3763CD-9914-42F2-A67A-38238554F802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B3763CD-9914-42F2-A67A-38238554F802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B3763CD-9914-42F2-A67A-38238554F802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B3763CD-9914-42F2-A67A-38238554F802}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

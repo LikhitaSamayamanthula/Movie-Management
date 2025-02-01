@@ -1,0 +1,9 @@
+C:\Users\samayamanthula_likhi\source\repos\Movie Mangament System\Epam.MovieManagment.Application\bin\Debug\Epam.MovieManagment.Application.dll
+C:\Users\samayamanthula_likhi\source\repos\Movie Mangament System\Epam.MovieManagment.Application\bin\Debug\Epam.MovieManagment.Application.pdb
+C:\Users\samayamanthula_likhi\source\repos\Movie Mangament System\Epam.MovieManagment.Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\samayamanthula_likhi\source\repos\Movie Mangament System\Epam.MovieManagment.Application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\samayamanthula_likhi\source\repos\Movie Mangament System\Epam.MovieManagment.Application\obj\Debug\Epam.MovieManagment.Application.csproj.AssemblyReference.cache
+C:\Users\samayamanthula_likhi\source\repos\Movie Mangament System\Epam.MovieManagment.Application\obj\Debug\Epam.MovieManagment.Application.csproj.CoreCompileInputs.cache
+C:\Users\samayamanthula_likhi\source\repos\Movie Mangament System\Epam.MovieManagment.Application\obj\Debug\Epam.Mov.B8F7C014.Up2Date
+C:\Users\samayamanthula_likhi\source\repos\Movie Mangament System\Epam.MovieManagment.Application\obj\Debug\Epam.MovieManagment.Application.dll
+C:\Users\samayamanthula_likhi\source\repos\Movie Mangament System\Epam.MovieManagment.Application\obj\Debug\Epam.MovieManagment.Application.pdb

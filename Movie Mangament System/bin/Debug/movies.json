@@ -1,0 +1,23 @@
+[
+  {
+    "MovieId": 101,
+    "Title": "Sahoo",
+    "Genre": "Action",
+    "ReleaseYear": 2017,
+    "Director": "Sujeeth"
+  },
+  {
+    "MovieId": 113,
+    "Title": "Aaa",
+    "Genre": "Comedy",
+    "ReleaseYear": 2016,
+    "Director": "Trivikram"
+  },
+  {
+    "MovieId": 112,
+    "Title": "Bahubali2",
+    "Genre": "Action",
+    "ReleaseYear": 2020,
+    "Director": "SSR"
+  }
+]

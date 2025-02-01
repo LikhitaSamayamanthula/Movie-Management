@@ -1,0 +1,15 @@
+C:\Users\samayamanthula_likhi\source\repos\Movie Mangament System\Movie Mangament System\bin\Debug\Movie Mangament System.exe
+C:\Users\samayamanthula_likhi\source\repos\Movie Mangament System\Movie Mangament System\bin\Debug\Epam.MovieManagment.Application.dll
+C:\Users\samayamanthula_likhi\source\repos\Movie Mangament System\Movie Mangament System\obj\Debug\Movie Mangament System.csproj.AssemblyReference.cache
+C:\Users\samayamanthula_likhi\source\repos\Movie Mangament System\Movie Mangament System\obj\Debug\Movie_Mangament_System.Form1.resources
+C:\Users\samayamanthula_likhi\source\repos\Movie Mangament System\Movie Mangament System\obj\Debug\Movie_Mangament_System.Properties.Resources.resources
+C:\Users\samayamanthula_likhi\source\repos\Movie Mangament System\Movie Mangament System\obj\Debug\Movie Mangament System.csproj.GenerateResource.cache
+C:\Users\samayamanthula_likhi\source\repos\Movie Mangament System\Movie Mangament System\obj\Debug\Movie Mangament System.csproj.CoreCompileInputs.cache
+C:\Users\samayamanthula_likhi\source\repos\Movie Mangament System\Movie Mangament System\bin\Debug\Movie Mangament System.exe.config
+C:\Users\samayamanthula_likhi\source\repos\Movie Mangament System\Movie Mangament System\bin\Debug\Movie Mangament System.pdb
+C:\Users\samayamanthula_likhi\source\repos\Movie Mangament System\Movie Mangament System\bin\Debug\Newtonsoft.Json.dll
+C:\Users\samayamanthula_likhi\source\repos\Movie Mangament System\Movie Mangament System\bin\Debug\Epam.MovieManagment.Application.pdb
+C:\Users\samayamanthula_likhi\source\repos\Movie Mangament System\Movie Mangament System\bin\Debug\Newtonsoft.Json.xml
+C:\Users\samayamanthula_likhi\source\repos\Movie Mangament System\Movie Mangament System\obj\Debug\Movie Ma.FAE69541.Up2Date
+C:\Users\samayamanthula_likhi\source\repos\Movie Mangament System\Movie Mangament System\obj\Debug\Movie Mangament System.exe
+C:\Users\samayamanthula_likhi\source\repos\Movie Mangament System\Movie Mangament System\obj\Debug\Movie Mangament System.pdb
